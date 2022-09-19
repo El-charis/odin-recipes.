@@ -1,0 +1,1 @@
+The Odin-project has been an amazing platform sharpening my development skills this I have learnt more on HTML and git it has really been interesting so far, this is my first project on the platform of a static HTML recipe page,to help me test run and sharpen my HTML and Git skills, thanks to the odin project  
