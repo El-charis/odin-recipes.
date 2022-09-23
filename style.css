@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&family=Roboto&display=swap');
+/* font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif; */
+body{
+    background-color: aliceblue;
+}
+h1,h2,h3{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 800;
+    color: rgb(241, 149, 36);
+    
+
+}
+p{
+    font-family:  'Poppins', sans-serif;
+    
+    ;
+}
+ul{
+    list-style:none;
+    font-family: 'Poppins', sans-serif;
+}
+ul li::before {
+    content: "\2078";
+    color: rgb(241, 149, 36);
+    font-weight: bold;
+    display: inline-block; 
+    width: 1em;
+    margin-left: -1em;
+  }
